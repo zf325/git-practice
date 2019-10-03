@@ -16,3 +16,7 @@ function createIterator (items) {
 }
 
 console.log('iterator')
+
+console.log('test')
+
+console.log(new Date())
