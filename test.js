@@ -14,3 +14,5 @@ function createIterator (items) {
 
     }
 }
+
+console.log('iterator')
