@@ -14,3 +14,7 @@ function createIterator (items) {
 
     }
 }
+
+function sayHello (words) {
+    console.log(`hello,${words}`);
+}
