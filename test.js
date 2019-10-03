@@ -16,8 +16,13 @@ function createIterator (items) {
     
 }
 
+
 console.log('iterator')
 
 console.log('test')
 
 console.log(new Date())
+
+function sayHello (words) {
+    console.log(`hello,${words}`);
+}
